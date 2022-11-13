@@ -2,6 +2,8 @@
 
 Resposta ao desafio "Criando sua Primeira Landing Page com HTML e CSS.
 
+A previsão do resultado deste código está em [https://iraja-baltezan.github.io/dio-wdp-221112-trilha-css-desafio-01/](https://iraja-baltezan.github.io/dio-wdp-221112-trilha-css-desafio-01/).
+
 ## O desafio
 
 Conteúdo da página "Entendendo o Desafio" em https://web.dio.me/lab/desafio-primeiros-passos-com-css/learning/401c88c4-c068-481c-99f0-7f0565542e90
